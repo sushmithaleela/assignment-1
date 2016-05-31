@@ -10,7 +10,7 @@
 
 
 #include"func.h"
-
+//jhfij
 int revSpiral(){
 
 int N; // variable N is to store order of matrix
